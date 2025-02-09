@@ -8,7 +8,6 @@ list_of_files = [
     "src/helper.py",
     "src/prompt.py",
     ".env",
-    "setup.py",
     "app.py",
     "Project/trials.ipynb",
     " test.py"
